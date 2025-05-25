@@ -1,0 +1,26 @@
+.video { 
+    padding: 20px; 
+    text-align: center; 
+}
+.video_recorder { 
+    border: 1px solid #ccc;
+    max-width: 500px; 
+    width: 100%;
+}
+.video_button_management { 
+    margin: 20px 0;
+ }
+ .video_button_start_recording{
+    margin-right: 10px;
+}
+.error{
+    color:rgb(236, 6, 6);
+}
+.recorded_video {
+    border: 1px solid #ccc;
+    max-width: 500px;
+    width: 100%;
+}
+.download_video {
+    margin-top: 10px;
+}
